@@ -23,3 +23,17 @@ p.title-year{
 p {
 	margin: 0 auto;
 }
+
+.loadMore {
+    display: block;
+    margin: 0 auto;
+}
+
+.fourth {
+    display: none;
+    overflow: hidden;
+}
+
+.hideItems {
+    display: none;
+}
